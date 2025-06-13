@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: ('image.png'); /* Gambar lokal */; 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: white;
+    font-family: 'Arial', sans-serif;
+    text-shadow: 1px 1px 3px black;
+}
+
+.content {
+    text-align: center;
+    padding-top: 200px;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+p {
+    font-size: 24px;
+}
