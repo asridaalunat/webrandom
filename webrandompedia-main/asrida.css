@@ -5,20 +5,17 @@ body {
     padding: 0;
 }
 nav {
-    background-color:#5bf080;
+    background-color: #28a745;;
     padding: 15px;
     text-align: center;
 }
 
 nav a {
-    color:#5208db;
+    outline-color: #5028a7;
     text-decoration: none;
     margin:15px;
     font-weight: bold;
 }
-header img {
-    background-color: coral;
-    border: radius 50px;
-    width:15px;
-    height:150px;
+nav{
+    text-align: center;
 }
